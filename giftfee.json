@@ -1,0 +1,533 @@
+[
+	{
+		"id": 1,
+		"program_name": "BS Sociology - Main Block",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "1350",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "248150",
+		"Tuition_Fee": "16200",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "23700",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 2,
+		"program_name": "BS Sociology - Girls Block (Only for Females)",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "1350",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "248150",
+		"Tuition_Fee": "16200",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "23700",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 3,
+		"program_name": "BS Education - Girls Block (Only for Females)",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "1350",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "248150",
+		"Tuition_Fee": "16200",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "23700",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 4,
+		"program_name": "BS Business Economics",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "2200",
+		"Total_Credit_Hrs": "126",
+		"Total_Program_Fee": "351200",
+		"Tuition_Fee": "26400",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "33900",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 5,
+		"program_name": "BDes (Hons.) Graphic Design",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "5600",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "796400",
+		"Tuition_Fee": "67200",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "74700",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 6,
+		"program_name": "BS Data Science",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "6340",
+		"Total_Credit_Hrs": "130",
+		"Total_Program_Fee": "98200",
+		"Tuition_Fee": "1440",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "108940",
+		"Frst_smstr_Cr_Hrs": "16"
+	},
+
+	{
+		"id": 7,
+		"program_name": "BS Mathematics",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "3925",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "580325",
+		"Tuition_Fee": "62800",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "70300",
+		"Frst_smstr_Cr_Hrs": "16"
+	},
+
+	{
+		"id": 8,
+		"program_name": "BS Electrical Engineering",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "2850",
+		"Total_Credit_Hrs": "134",
+		"Total_Program_Fee": "455900",
+		"Tuition_Fee": "51300",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "58800",
+		"Frst_smstr_Cr_Hrs": "18"
+	},
+
+	{
+		"id": 9,
+		"program_name": "Advanced Diploma in Clinical Psychology",
+		"duration": "1",
+		"No_of_Regular_Semesters": "2",
+		"Credit_Hour_Fee": "4900",
+		"Total_Credit_Hrs": "25",
+		"Total_Program_Fee": "151500",
+		"Tuition_Fee": "58800",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "66300",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 10,
+		"program_name": "BDes (Hons.) Textile and Fashion",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "6600",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "925400",
+		"Tuition_Fee": "79200",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "86700",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 11,
+		"program_name": "BS Accounting and Finance",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "5165",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "740285",
+		"Tuition_Fee": "61980",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "69480",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 12,
+		"program_name": "BS Business Administration",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "6520",
+		"Total_Credit_Hrs": "126",
+		"Total_Program_Fee": "895520",
+		"Tuition_Fee": "78240",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "85740",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 13,
+		"program_name": "BS Computer Science",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "7100",
+		"Total_Credit_Hrs": "130",
+		"Total_Program_Fee": "997000",
+		"Tuition_Fee": "13600",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "121100",
+		"Frst_smstr_Cr_Hrs": "16"
+	},
+
+	{
+		"id": 14,
+		"program_name": "BS Software Engineering",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "7100",
+		"Total_Credit_Hrs": "130",
+		"Total_Program_Fee": "997000",
+		"Tuition_Fee": "20700",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "128200",
+		"Frst_smstr_Cr_Hrs": "17"
+	},
+
+	{
+		"id": 15,
+		"program_name": "BS English",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "3800",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "564200",
+		"Tuition_Fee": "45600",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "53100",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 16,
+		"program_name": "BS Home Economics  (Food and Nutrition) - Girls Block (Only for Females)",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "4500",
+		"Total_Credit_Hrs": "130",
+		"Total_Program_Fee": "659000",
+		"Tuition_Fee": "54000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "61500",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 17,
+		"program_name": "BS Mass Communication and Media Studies",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "3665",
+		"Total_Credit_Hrs": "132",
+		"Total_Program_Fee": "557780",
+		"Tuition_Fee": "54975",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "62475",
+		"Frst_smstr_Cr_Hrs": "15"
+	},
+
+	{
+		"id": 18,
+		"program_name": "BS Clinical Psychology - Girls Block ( Only for Females)",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "5050",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "725450",
+		"Tuition_Fee": "60600",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "68100",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 19,
+		"program_name": "BS Psychology - Main Block",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "3500",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "525500",
+		"Tuition_Fee": "42000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "49500",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 20,
+		"program_name": "BS Education - Main-Block",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "1350",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "248150",
+		"Tuition_Fee": "16200",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "23700",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 21,
+		"program_name": "BS Political Science",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "1350",
+		"Total_Credit_Hrs": "130",
+		"Total_Program_Fee": "249500",
+		"Tuition_Fee": "16200",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "23700",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 22,
+		"program_name": "BS International Relations",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "2950",
+		"Total_Credit_Hrs": "130",
+		"Total_Program_Fee": "457500",
+		"Tuition_Fee": "35400",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "42900",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 23,
+		"program_name": "BS Psychology - Girls Block (Only for Females)",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "3500",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "525500",
+		"Tuition_Fee": "42000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "49500",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 24,
+		"program_name": "BS Islamic Studies",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "2500",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "396500",
+		"Tuition_Fee": "30000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "37500",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 25,
+		"program_name": "BS Home Economics (Interior Design)- Girls Block (Only for Females)",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "4500",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "654500",
+		"Tuition_Fee": "54000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "61500",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 26,
+		"program_name": "BCom (Hons.)",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "4740",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "685460",
+		"Tuition_Fee": "56880",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "64380",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 27,
+		"program_name": "BS Clinical Psychology - Main Block",
+		"duration": "4",
+		"No_of_Regular_Semesters": "8",
+		"Credit_Hour_Fee": "5050",
+		"Total_Credit_Hrs": "129",
+		"Total_Program_Fee": "725450",
+		"Tuition_Fee": "60600",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "68100",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 28,
+		"program_name": "MBA (For Business Graduates)",
+		"duration": "1.5 ",
+		"No_of_Regular_Semesters": "3",
+		"Credit_Hour_Fee": "9250",
+		"Total_Credit_Hrs": "30",
+		"Total_Program_Fee": "14000",
+		"Tuition_Fee": "11000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "118500",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 29,
+		"program_name": "MBA (For Non-Business Graduates)",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "9250",
+		"Total_Credit_Hrs": "60",
+		"Total_Program_Fee": "599000",
+		"Tuition_Fee": "138750",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "146250",
+		"Frst_smstr_Cr_Hrs": "15"
+	},
+
+	{
+		"id": 30,
+		"program_name": "MA English Language and Literature",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "3120",
+		"Total_Credit_Hrs": "69",
+		"Total_Program_Fee": "259280",
+		"Tuition_Fee": "46800",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "54300",
+		"Frst_smstr_Cr_Hrs": "15"
+	},
+
+	{
+		"id": 31,
+		"program_name": "M.Com",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "4400",
+		"Total_Credit_Hrs": "70",
+		"Total_Program_Fee": "352000",
+		"Tuition_Fee": "66000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "73500",
+		"Frst_smstr_Cr_Hrs": "15"
+	},
+
+	{
+		"id": 32,
+		"program_name": "MPhil Economics",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "10900",
+		"Total_Credit_Hrs": "30",
+		"Total_Program_Fee": "363500",
+		"Tuition_Fee": "98100",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "105600",
+		"Frst_smstr_Cr_Hrs": "9"
+	},
+
+	{
+		"id": 33,
+		"program_name": "MPhil Management Sciences",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "11900",
+		"Total_Credit_Hrs": "30",
+		"Total_Program_Fee": "393500",
+		"Tuition_Fee": "107100",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "114600",
+		"Frst_smstr_Cr_Hrs": "9"
+	},
+
+	{
+		"id": 34,
+		"program_name": "MS Computer Science",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "11900",
+		"Total_Credit_Hrs": "30",
+		"Total_Program_Fee": "393500",
+		"Tuition_Fee": "107100",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "114600",
+		"Frst_smstr_Cr_Hrs": "9"
+	},
+
+	{
+		"id": 35,
+		"program_name": "MSc Accounting and Finance",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "4400",
+		"Total_Credit_Hrs": "70",
+		"Total_Program_Fee": "352000",
+		"Tuition_Fee": "66000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "73500",
+		"Frst_smstr_Cr_Hrs": "15"
+	},
+
+	{
+		"id": 36,
+		"program_name": "MA Mass Communication and Media Studies",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "3570",
+		"Total_Credit_Hrs": "66",
+		"Total_Program_Fee": "279620",
+		"Tuition_Fee": "53550",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "61050",
+		"Frst_smstr_Cr_Hrs": "15"
+	},
+
+	{
+		"id": 37,
+		"program_name": "MSc Home Economics - Food and Nutrition - Girls Block (Only for Females)",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "4500",
+		"Total_Credit_Hrs": "66",
+		"Total_Program_Fee": "341000",
+		"Tuition_Fee": "54000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "61500",
+		"Frst_smstr_Cr_Hrs": "12"
+	},
+
+	{
+		"id": 38,
+		"program_name": "MSc Home Economics - Interior Design - Girls Block (Only for Females)",
+		"duration": "2",
+		"No_of_Regular_Semesters": "4",
+		"Credit_Hour_Fee": "4500",
+		"Total_Credit_Hrs": "69",
+		"Total_Program_Fee": "354500",
+		"Tuition_Fee": "54000",
+		"Registration_Exam_Activity_Fee": "7500",
+		"Total_Semester_Fee": "61500",
+		"Frst_smstr_Cr_Hrs": "12"
+	}
+]

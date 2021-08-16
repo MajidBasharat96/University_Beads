@@ -1,0 +1,102 @@
+
+<?php 
+
+
+if(isset($_POST['signup']))
+{    
+
+ $name = $_POST['name'];
+ $email = $_POST['email'];
+ $contact = $_POST['contact'];
+ $marks = $_POST['marks'];
+ $interests = $_POST['interests'];
+ $password = $_POST['password'];
+ 
+
+$sql = "INSERT INTO 'student' ('s_name', 's_email', 's_phone', 's_marks', 's_interests', 's_password') VALUES ('$name', '$email', '$contact', '$marks', '$interests', '$password')";
+
+
+if (mysqli_query($conn, $sql)) {
+     echo "<script>alert('Registeration Successfully Done!');</script>";
+} else {
+
+    echo "Error: " . $sql ."
+    " . mysqli_error($conn);
+}
+mysqli_close($conn);
+}
+
+
+
+//see from here
+
+
+
+if(isset($_POST['username']) && isset($_POST['password']))
+ {
+ $username= $_POST['username'];
+ $password = $_POST['password'];
+ 
+ $sql = "SELECT * FROM cctv1 WHERE username='$username' AND password='$password'";
+ 
+ $query = mysql_query($sql);
+ 
+ $num_rows = mysql_num_rows($query);/*the data received from query  change it into rows */
+ 
+ if($num_rows >= 1)/*this means if you find >=1 record make 2 variable*/
+ {
+ $_SESSION['registered']= '';/*here we set variable*/
+    $_SESSION['newuser']= '';
+    
+    header("Location: index.php");
+    }
+    
+else
+{
+$_SESSION['dontexist']='';
+}
+}
+
+
+
+
+
+ 
+if(isset($_POST['fname'])) 
+ {
+ 
+$fname =$_POST['fname'];
+$lname =$_POST['lname'];
+$email =$_POST['email'];
+ 
+$password =$_POST['password'];
+$cpassword =$_POST['cpassword'];
+$msg =$_POST['msg'];
+$sql ="SELECT *FROM cctv1 WHERE username='$email'";
+
+$query = mysql_query($sql);
+
+$num_rows = mysql_num_rows($query); 
+
+
+if($num_rows >= 1)
+ {
+ $_SESSION['user exist']= '';
+
+} 
+else
+ {
+ $sql = "INSERT INTO cctv1 VALUES
+ (1,'$fname','$lname','$email','$password','$msg')";
+
+mysql_query($sql);/*INSERT INTO statement run by mysql_query*/
+$_SESSION['newuser']= '';
+$_SESSION['registered']= '';
+    
+    header("Location: index.php");
+
+}
+}
+
+
+?>
